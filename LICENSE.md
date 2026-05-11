@@ -1,4 +1,4 @@
-# 
+# Enhance Bitwarden for macOS with Bitwarden for macOS advanced Addon: secure-browsing & junk-file-cleanup, the #1 addon. Includes secure-browsing and junk-file-cleanup for a safer
 
 
 
